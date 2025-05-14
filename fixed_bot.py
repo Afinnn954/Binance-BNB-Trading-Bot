@@ -22,13 +22,13 @@ logger = logging.getLogger(__name__)
 
 # ======== BOT CONFIGURATION ========
 # Replace these values with your own
-TELEGRAM_BOT_TOKEN = "7901465371:AAGwElKAdkTMSYmBVLBHOw9zBG_6QaWZqWo"  # Replace with your bot token
-ADMIN_USER_IDS = [1202425609]    # Replace with your Telegram user ID(s)
+TELEGRAM_BOT_TOKEN = "BOT_TELEGRAM"  # Replace with your bot token
+ADMIN_USER_IDS = [124999]    # Replace with your Telegram user ID(s)
 # ==================================
 
 # Binance API configuration
-BINANCE_API_KEY = "WH5G2jUbC2RC0mJkldi4yEXHTM7goAM2uKewWMMsKIuY4IqFsNnWTL6PB7USVkyN"  # Your Binance API key
-BINANCE_API_SECRET = "ufw4Dc63HnI13yL8QAqzRh02tlEXsG3Avrsy1fSgSS5EZMFKXGilUOou5wMsgKpl" # Your Binance API secret
+BINANCE_API_KEY = "API_KEY"  # Your Binance API key
+BINANCE_API_SECRET = "API_SECRET" # Your Binance API secret
 BINANCE_API_URL = "https://api.binance.com"
 BINANCE_TEST_API_URL = "https://testnet.binance.vision"  # Testnet URL for testing
 
