@@ -91,7 +91,7 @@ Ikuti langkah-langkah ini untuk menjalankan BNB Dominator:
     ```
 
 4.  **Konfigurasi Awal Bot:**
-    Buka file skrip Python (misal, `bnb_trader_bot.py`) dan edit bagian konfigurasi di awal skrip:
+    Buka file skrip Python (misal, `bot2.py`) dan edit bagian konfigurasi di awal skrip:
 
     *   **Telegram Bot Token:**
         ```python
@@ -165,4 +165,8 @@ Ikuti langkah-langkah ini untuk menjalankan BNB Dominator:
 
 Setelah semua konfigurasi selesai, buka terminal atau command prompt Anda, navigasi ke direktori tempat Anda menyimpan skrip, dan jalankan:
 ```bash
-python bnb_trader_bot.py
+python bot2.py
+
+
+
+
